@@ -15,7 +15,7 @@ Pronouns: He/Him (just in case you were wondering!) 👀
 
 ## My Websites
 
-Here are the links to my recent works:
+Here are the links to my recent projects:
 
 [Brainy](https://brainy-e3281.web.app/)  
 [WebShop](https://averagepage-d3ced.web.app/)  
