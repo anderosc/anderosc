@@ -20,13 +20,6 @@
 
 
 
-## My Websites
-
-Here are the links to my recent projects:
-
-[Brainy](https://brainy-e3281.web.app/)  
-[WebShop](https://averagepage-d3ced.web.app/)  
-
 #### Views
 
 ![](https://komarev.com/ghpvc/?username=anderosc&color=blue)
